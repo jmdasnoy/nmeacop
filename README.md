@@ -1,4 +1,4 @@
-# NMEAcop by jmdasnoy 2020 MIT license
+# NMEAcop by jmdasnoy 11/2020 MIT license
 
 ## Target platform ESP32 NodeMCU Lua 5.1
 
